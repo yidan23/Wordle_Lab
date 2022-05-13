@@ -1,8 +1,8 @@
 Here's some sample code to get started....
 
-public class Main(){
+public class Main{
 
-public static main void(String args[]){
+public static void main(String args[]){
 
 
 
