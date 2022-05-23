@@ -1,9 +1,13 @@
 # Wordle_Lab
-Wordle is a game, perse. But more than a game, its a culture. What is the goal? To win. And to do that, one has to guess the word(le). Wordle has had a massive impact in the realm of leisure gaming. The goal is to guess the random word, using hints given by the game. 
+Wordle boomed in popularity in early 2022. With its leisure-style gameplay and daily objective, players of all ages enjoy playing and sharing the website. The goal of the game is to guess a random 5 letter words, using colorful hints. For this assignment, you will recreating this game. Good luck!
 
-Pseudocode:
-1. make list of possible words to choose randomly from
-2. give player oppurtunity to guess random word
-3. if one of the letters they guessed is in the word but not in the right place, it should appear yellow
-4. if one of the letters they guessed is in the word and in the right place, it should appear green
-5. the player gets 6 guesses to get the word, or else they lose (and die)
+Tasks:
+1. compile a list of words that may be the hidden word
+2. grab a random word from list
+3. players loop to guess the word until a certain amount of guesses
+4. incorrect, almost correct, and correct guesses are recorded and displayed
+5. ^ correct letter, correct position => green
+6. ^ correct letter, wrong position => yellow
+7. ^ wrong letter => grey
+8. win/lose texts
+
